@@ -6,4 +6,4 @@ They are available for download at https://github.com/johnjq/kbs-embeddings-2022
 
 For more details, please contact the authors:
 * Jonathan <research@johnjq.com>
-* Tiago <januario@ufba.br>
+* Tiago Januario <januario@ufba.br>
